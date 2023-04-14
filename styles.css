@@ -194,13 +194,17 @@ nav {
     }
     .texto1{
         font-size: 16px;
-        padding-right: 100%;
-        padding-left: 10%;
+        padding-right: 90%;
+        padding-left: 18%;
         text-align:center;
         text-shadow: 1px 1px 1px rgb(26, 26, 234);
     }
     .contenedor-2{
         margin-bottom: 240%;
+    }
+    .letra{
+        font-size: 16px;
+        text-align: center;
     }
     #resultado {
         display: flex;
@@ -282,7 +286,7 @@ nav {
     }
     footer{
         font-size: small;
-        padding-left: 10%;
+        padding-left: 13%;
         text-align: center;
     }
 }
